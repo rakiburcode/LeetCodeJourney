@@ -1,6 +1,6 @@
 # LeetCodeJourney
 
-A curated collection of LeetCode solutions implemented in **JavaScript** to enhance problem-solving and algorithmic thinking.
+## A curated collection of LeetCode solutions implemented in **JavaScript** to enhance problem-solving and algorithmic thinking
 
 This repository is maintained as part of continuous practice to strengthen problem-solving skills and develop a strong understanding of **data structures and algorithms**.
 
