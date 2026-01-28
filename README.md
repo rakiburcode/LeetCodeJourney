@@ -27,5 +27,5 @@ The solutions are organized based on:
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rakiburcode/leetcodesolutions.git
+   git clone https://github.com/rakiburcode/LeetCodeJourney.git
 
