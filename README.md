@@ -47,4 +47,4 @@ The solutions are organized based on:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rakiburcode/LeetCodeJourney.git
+   git clone https://github.com/codespecia/LeetCodeJourney.git
